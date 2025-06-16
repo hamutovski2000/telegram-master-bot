@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, executor, types
 import logging
 import os
 
-API_TOKEN = os.getenv("BOT_TOKEN")
+API_TOKEN = os.getenv("8023564597:AAEMLDG7EKvhGRBQjivkNTsnnqbF-DjnHDw")
 SUPPORT_LINK = os.getenv("SUPPORT_LINK", "https://t.me/hamonasa")
 
 logging.basicConfig(level=logging.INFO)
